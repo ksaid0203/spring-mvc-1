@@ -1,6 +1,7 @@
 package hello.springmvc.basic.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import hello.springmvc.basic.HelloData;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpEntity;
 import org.springframework.stereotype.Controller;
